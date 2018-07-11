@@ -19,4 +19,7 @@ student_names = ["Natalie", "Cece", "Pelumi", "Sidney", "Hope", "Christina","Ell
 ​
 celebrities = ["Gigi Hadid", "Kendall Jenner", "Sam Smith", "Charlie Puth", "Romme Strigid", "Billie Eilish", "Rihanna"]
 
+literate = 0 
+
+
 
