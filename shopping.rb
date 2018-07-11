@@ -5,3 +5,5 @@
    
    shopping_hash= { }
    
+   
+   
