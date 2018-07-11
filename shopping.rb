@@ -6,4 +6,4 @@
    shopping_hash= { }
    
    
-   shooping_array=
+   shooping_array= []
